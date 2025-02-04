@@ -8,5 +8,4 @@ The top three results are
 3.	[PolicyGradient Trial 1](https://github.com/damienbose/FYP-Result-unzipped/blob/main/FINAL_RESULTS/FYPLocalSearch/PolicyGradient/trial_1/validate_logs/experiment.diff) with [result]([url](https://github.com/damienbose/FYP-Result-unzipped/blob/main/FINAL_RESULTS/FYPLocalSearch/PolicyGradient/trial_1/validate_logs/experiment.log#L11911C76-L11911C81))
 
 These coincide the results in Table 6.1.
-![image](https://github.com/user-attachments/assets/d1fe9d2a-178f-428f-9659-1d6e6f9bd205)
 
